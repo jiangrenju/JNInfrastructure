@@ -1,4 +1,4 @@
-Infrastructure:
+Some infrastructure collection:
 
 JNLinkedHashMap.swift
 
